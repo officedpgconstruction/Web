@@ -306,8 +306,8 @@ html:not(.js) .hero-bg img:first-child{opacity:1}
 .trade-img img{width:100%;height:100%;object-fit:cover;transition:transform 1.1s var(--ease-out),filter .8s var(--ease-out);filter:saturate(.9) brightness(.86)}
 .trade:hover .trade-img img{transform:scale(1.07);filter:saturate(1.1) brightness(1)}
 .trade-body{padding:22px 22px 26px;position:relative}
-.trade-n{font-family:var(--serif);font-size:12px;color:var(--accent);letter-spacing:.12em}
-.trade h3{font-size:20px;margin-top:11px}
+.trade-ic{width:44px;height:44px;margin-left:-4px}
+.trade h3{font-size:20px;margin-top:12px}
 .trade p{margin-top:10px;font-size:14.5px;color:var(--cream-3)}
 .trades-nav{display:flex;gap:10px;justify-content:flex-end;margin-top:26px;padding-inline:var(--gutter)}
 .tnav{width:46px;height:46px;border:1px solid var(--line);display:grid;place-items:center;transition:border-color .4s var(--ease-out),color .4s var(--ease-out),background .4s}
