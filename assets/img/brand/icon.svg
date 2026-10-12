@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   role="img"
+   aria-labelledby="title desc"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="DPG_Icon_Navy.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <title
+     id="title">DPG Construction icon - navy</title>
+  <desc
+     id="desc">DPG Construction LLC heritage roof logo with the tagline Quality Craftsmanship.</desc>
+  <rect
+     width="512"
+     height="512"
+     fill="#0B1F33"
+     id="rect1" />
+  <g
+     transform="translate(40,80) scale(0.72)"
+     id="g5">
+    <path
+       d="M 40 270 L 300 75 L 560 270"
+       fill="none"
+       stroke="#D4A017"
+       stroke-width="27"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       id="path1" />
+    <path
+       d="M 4 270 L 40 242 M 560 242 L 596 270"
+       fill="none"
+       stroke="#FFFFFF"
+       stroke-width="17"
+       stroke-linecap="square"
+       id="path2" />
+    <rect
+       x="277"
+       y="156"
+       width="32"
+       height="32"
+       fill="#FFFFFF"
+       id="rect2" />
+    <rect
+       x="319"
+       y="156"
+       width="32"
+       height="32"
+       fill="#FFFFFF"
+       id="rect3" />
+    <rect
+       x="277"
+       y="198"
+       width="32"
+       height="32"
+       fill="#FFFFFF"
+       id="rect4" />
+    <rect
+       x="319"
+       y="198"
+       width="32"
+       height="32"
+       fill="#FFFFFF"
+       id="rect5" />
+  </g>
+</svg>
